@@ -24,6 +24,9 @@ Attrition status
 Years at company
 Department data
 
+screenshots :
+https://github.com/mohammed0786-tech/HR-attrition-analysis/blob/main/hr%20attrition%20page%201.png
+
 Features / Highlights :
 
 KPI Cards: 
