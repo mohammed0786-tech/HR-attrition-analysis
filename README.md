@@ -1,6 +1,7 @@
 # HR-attrition-analysis
-Project Title : HR Analytics Dashboard: Employee Attrition & Workforce Insights
-Description :
+1 . Project Title :
+HR Analytics Dashboard: Employee Attrition & Workforce Insights
+2 .Description :
 An interactive Power BI dashboard designed to analyze employee attrition patterns, workforce demographics, and key HR metrics. The project uncovers trends in employee turnover, salary distribution, job roles, and performance indicators to support data-driven HR decision-making.
 
 Tech Stack :
