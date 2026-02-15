@@ -26,7 +26,8 @@ Department data
 
 screenshots :
 https://github.com/mohammed0786-tech/HR-attrition-analysis/blob/main/hr%20attrition%20page%201.png
-
+https://github.com/mohammed0786-tech/HR-attrition-analysis/blob/main/hr%20attrition%20page%202.png
+https://github.com/mohammed0786-tech/HR-attrition-analysis/blob/main/hr%20attrition%20page%203.png
 Features / Highlights :
 
 KPI Cards: 
