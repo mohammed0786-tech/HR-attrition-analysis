@@ -8,16 +8,15 @@ An interactive Power BI dashboard designed to analyze employee attrition pattern
 Data Visualization & BI 
 Power BI (DAX, Data Modeling, Interactive Dashboards)
 
-Data Processing 
+4.  Data Processing 
 Power Query (Data Cleaning & Transformation) 
 
-Data Analysis 
+5.  Data Analysis 
 DAX (Calculated Columns, Measures, KPIs)
 
-
-Data Source :
+6.  Data Source :
 HR Employee Dataset (Sample HR Analytics dataset – CSV format)
-Contains
+ Contains
 Employee demographics
 Job roles
 Salary details
@@ -25,31 +24,31 @@ Attrition status
 Years at company
 Department data
 
-screenshots :
+7.  screenshots :
 https://github.com/mohammed0786-tech/HR-attrition-analysis/blob/main/hr%20attrition%20page%201.png
 https://github.com/mohammed0786-tech/HR-attrition-analysis/blob/main/hr%20attrition%20page%202.png
 https://github.com/mohammed0786-tech/HR-attrition-analysis/blob/main/hr%20attrition%20page%203.png
 Features / Highlights :
 
-KPI Cards: 
+8.  KPI Cards: 
 Total Employees
 Total Attrition
 Attrition Rate (%)
 Average Salary
 Average Years at Company
 
-Attrition Analysis:
+9.  Attrition Analysis:
 Attrition by Department
 Attrition by Job Role
 Attrition by Salary Slab
 Attrition by Education Field
 
-Workforce Demographics: 
+10.  Workforce Demographics: 
 Gender Distribution
 Age Group Analysis
 Marital Status Insights
 
-Business Impact:
+11.  Business Impact:
 Identifies high-risk departments with high attrition
 Helps HR optimize salary structure
 Supports strategic workforce planning
